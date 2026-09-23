@@ -1,5 +1,7 @@
 # LadderFunnel Architect
 
+> Part of [Marketing Skills](https://marketingskills.net/skills/ladder-funnel/) — open-source marketing operators for AI agents.
+
 An AI skill for building **paid acquisition funnels** that replace SaaS free trials with a $7 intro product → order bump → recurring upsell structure.
 
 This is the open-source skill definition used by the `ladderfunnel-architect` agent. It contains the full methodology: offer strategy, copywriting formulas, ad frameworks, email ascension sequences, and the Funnel Blocks spec.
